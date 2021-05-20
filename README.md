@@ -1,4 +1,4 @@
-# Nano Server IIS-PHP-MYSQL-WordPress.
+# Nano Server IIS-PHP-MYSQL-Glpi.
 
 
-Nano Server - IIS - PHP - MySQL (WIMP) - WordPress.
+Nano Server - IIS - PHP - MySQL (WIMP) - Glpi.
