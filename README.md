@@ -1,4 +1,6 @@
-# Nano Server IIS-PHP-MYSQL-Glpi.
+# Nano Server IIS-Php-MySQL-Glpi.
 
 
-Nano Server - IIS - PHP - MySQL (WIMP) - Glpi.
+Nano Server - IIS - Php - MySQL (WIMP) - Glpi.
+
+--- Doit être testé ---
